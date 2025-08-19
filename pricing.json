@@ -1,0 +1,62 @@
+[
+    {
+        "Classification": "Premium",
+        "Type": "Owner",
+        "Timeframe": "7 - 11 Month Window",
+        "Price": "$18.00"
+    },
+    {
+        "Classification": "Premium",
+        "Type": "Owner",
+        "Timeframe": "0 - 7 Month Window",
+        "Price": "$16.00"
+    },
+    {
+        "Classification": "Regular",
+        "Type": "Owner",
+        "Timeframe": "7 - 11 Month Window",
+        "Price": "$18.00"
+    },
+    {
+        "Classification": "Regular",
+        "Type": "Owner",
+        "Timeframe": "0 - 7 Month Window",
+        "Price": "$16.00"
+    },
+    {
+        "Classification": "Advantage",
+        "Type": "Owner",
+        "Timeframe": "Year Round",
+        "Price": "$16.00"
+    },
+    {
+        "Classification": "Premium",
+        "Type": "Guest",
+        "Timeframe": "7 - 11 Month Window",
+        "Price": "$25.00"
+    },
+    {
+        "Classification": "Premium",
+        "Type": "Guest",
+        "Timeframe": "0 - 7 Month Window",
+        "Price": "$23.00"
+    },
+    {
+        "Classification": "Regular",
+        "Type": "Guest",
+        "Timeframe": "7 - 11 Month Window",
+        "Price": "$23.00"
+    },
+    {
+        "Classification": "Regular",
+        "Type": "Guest",
+        "Timeframe": "0 - 7 Month Window",
+        "Price": "$23.00"
+    },
+    {
+        "Classification": "Advantage",
+        "Type": "Guest",
+        "Timeframe": "Year Round",
+        "Price": "$20.00"
+    }
+]
