@@ -1,0 +1,98 @@
+[
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "A view of the parking lot or Community Hall.",
+        "ViewImg": "",
+        "ViewLocation": "GF"
+    },
+    {
+        "ViewType": "Preferred View",
+        "ViewDesc": "At least a partial view of Bay Lake.",
+        "ViewImg": "",
+        "ViewLocation": "GF"
+    },
+    {
+        "ViewType": "Theme Park View",
+        "ViewDesc": "At least a partial view of the Magic Kingdom Theme Park.",
+        "ViewImg": "",
+        "ViewLocation": "GF"
+    },
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "A View of th pool, garden or parking lot area.",
+        "ViewImg": "",
+        "ViewLocation": "BLT"
+    },
+    {
+        "ViewType": "Preferred View",
+        "ViewDesc": "At least a partial view of Bay Lake.",
+        "ViewImg": "",
+        "ViewLocation": "BLT"
+    },
+    {
+        "ViewType": "Theme Park View",
+        "ViewDesc": "At least a partial view of the Magic Kingdom Theme Park.",
+        "ViewImg": "",
+        "ViewLocation": "BLT"
+    },
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "A View of the parking lot area or the loading bay.",
+        "ViewImg": "",
+        "ViewLocation": "POLY"
+    },
+    {
+        "ViewType": "Preferred View",
+        "ViewDesc": "At least a partial view of the lake. Some views can see the magic kingdom.",
+        "ViewImg": "",
+        "ViewLocation": "POLY"
+    },
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "A View of th pool, garden or parking lot area.",
+        "ViewImg": "",
+        "ViewLocation": "POLY TOWER"
+    },
+    {
+        "ViewType": "Preferred View",
+        "ViewDesc": "Views of the lakes, ponds, or golf courses.",
+        "ViewImg": "",
+        "ViewLocation": "POLY TOWER"
+    },
+    {
+        "ViewType": "Premium View",
+        "ViewDesc": "At least a partial view of 7 seas lagoon.",
+        "ViewImg": "",
+        "ViewLocation": "POLY TOWER"
+    },
+    {
+        "ViewType": "Theme Park View",
+        "ViewDesc": "At least a partial view of the Magic Kingdom Theme Park.",
+        "ViewImg": "",
+        "ViewLocation": "POLY TOWER"
+    },
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "At least a partial view of 7 seas lagoon.",
+        "ViewImg": "Views of Pool, Bay Lake, Woodlands, Courtyard, Disney's Wilderness Lodge or Boulder Ridge Villas at Disney's Wilderness Lodge.",
+        "ViewLocation": "CCV"
+    },
+    {
+        "ViewType": "Cabin View",
+        "ViewDesc": "Views of the lakes, ponds, or nature areas.",
+        "ViewImg": "",
+        "ViewLocation": "CCV"
+    },
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "Views of Pool, Bay Lake, Woodlands, Courtyard, Disney's Wilderness Lodge or Copper Creek Villas at Disney's Wilderness Lodge.",
+        "ViewImg": "",
+        "ViewLocation": "BRV"
+    },
+    {
+        "ViewType": "Resort View",
+        "ViewDesc": "A view of the cabins, forest or pool areas.",
+        "ViewImg": "",
+        "ViewLocation": "CFW"
+    }
+]
