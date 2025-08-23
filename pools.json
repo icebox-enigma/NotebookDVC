@@ -3,119 +3,120 @@
         "PoolName": "Courtyard Pool",
         "PoolResort": "GF",
         "PoolLocation": "Next to Big Pine Key building",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/GfCourtyardPool.png"
     },
     {
         "PoolName": "Beach Pool",
         "PoolResort": "GF",
         "PoolLocation": "Next to the Resort & Spa building",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/GfBeachPool.png"
     },
     {
         "PoolName": "Beach Pool Play Area",
         "PoolResort": "GF",
         "PoolLocation": "Next to the Beach Pool",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/GfWaterPlayArea.png"
     },
     {
         "PoolName": "Bay Cove Pool",
         "PoolResort": "BLT",
         "PoolLocation": "Feature pool behind Bay Lake Tower, overlooking Bay Lake.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/BayCovePool2.png"
     },
     {
         "PoolName": "Bay Lake Pool",
         "PoolResort": "BLT",
         "PoolLocation": "Secondary pool or quiet pool, that sits near Bay Lake.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/bayLakePool.pn"
     },
     {
         "PoolName": "Contemporary Feature Pool",
         "PoolResort": "BLT",
         "PoolLocation": "Primary pool that sits directly behind the Contemporary.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/contempFeature.png"
     },
     {
         "PoolName": "Lava Pool",
         "PoolResort": "POLY",
         "PoolLocation": "Feature pool behind the Seven Seas Marina and Barefoot Pool Bar.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/lavapool.png"
     },
     {
         "PoolName": "Oasis Pool",
         "PoolResort": "POLY",
         "PoolLocation": "Secondary leisure pool, nustled in a lush garden next to Tokelau.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/oasispool.png"
     },
     {
         "PoolName": "Oasis Patio",
         "PoolResort": "POLY",
         "PoolLocation": "Relax in your own private shaded area close to the Oasis pool.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/oasisPatio.png"
     },
     {
         "PoolName": "Cove Pool",
         "PoolResort": "POLY TOWER",
         "PoolLocation": "A zero depth entry pool that offers relaxation for guests, located next to the Island Tower.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/towerCovePool.png"
     },
     {
         "PoolName": "Moana's Voyage Splash Area",
         "PoolResort": "POLY TOWER",
         "PoolLocation": "Little ones can embrace their inner wayfinder with this whimsical, new splash area inspired by Disney’s beloved movie Moana.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/moanaVoyageSplashArea.png"
     },
     {
         "PoolName": "Copper Creek Springs Pool",
         "PoolResort": "CCV",
         "PoolLocation": "A dazzling heated pool surrounded by nature next to Copper Creek Falls.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/copperCreekSprings.png"
     },
     {
         "PoolName": "Springs Play Area",
         "PoolResort": "CCV",
         "PoolLocation": "Secondary leisure pool, nustled in a lush garden.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/springsPlayArea.png"
     },
     {
         "PoolName": "Boulder Ridge Cove Pool",
         "PoolResort": "BRV",
         "PoolLocation": "A dazzling heated pool surrounded by nature next to Copper Creek Falls.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/boulderRidgeCovePool.png"
     },
     {
         "PoolName": "Meadow Swimmin' Pool",
         "PoolResort": "CFW",
         "PoolLocation": "In the Meadow Section of the resort.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/meadowPool.png"
     },
     {
         "PoolName": "Meadow Recreation Area",
         "PoolResort": "CFW",
         "PoolLocation": "In the Meadow Section of the CFW.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/meadowRecArea.png"
     },
     {
         "PoolName": "Wilderness Swimmin' Pool",
         "PoolResort": "CFW",
         "PoolLocation": "In the Wilderness Section of CFW.",
-        "PoolDescription": "",
+        "PoolDescription": "NA",
         "PoolImg": "../assets/img/wildernessPool.png"
     }
+
 ]
