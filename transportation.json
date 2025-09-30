@@ -1,0 +1,577 @@
+[
+    {
+        "TransportationType": "Monorail",
+        "TotalTravelTime": "Approx. 10 Mins",
+        "StartingDestination": "Grand Floridian",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 5 - 10 mins",
+        "StartingDestination": "Grand Floridian",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Monorail",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Grand Floridian",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Grand Floridian",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Grand Floridian",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Grand Floridian",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Monorail",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 10 - 20 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 10 - 15 mins leisurely",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Monorail",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Bay Lake Tower",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Monorail",
+        "TotalTravelTime": "Approx. 5 - 10 mins",
+        "StartingDestination": "Polynesian Villas & Bungalows",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 5 - 10 mins",
+        "StartingDestination": "Polynesian Villas & Bungalows",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Monorail",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Polynesian Villas & Bungalows",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 10 - 15 mins",
+        "StartingDestination": "Polynesian Villas & Bungalows",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Polynesian Villas & Bungalows",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Polynesian Villas & Bungalows",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 7 - 10 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 30 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 25 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Alternate Route",
+        "TotalTravelTime": "Approx. 45 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "Stop1": "Magic Kingdom - Monorail",
+        "Stop2": "Transportation Ticket Center - Monorail",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 25 - 30 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Boulder Ridge Villas",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 7 - 10 mins",
+        "StartingDestination": "Copper Creek Villas",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 30 mins",
+        "StartingDestination": "Copper Creek Villas",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Alternate Route",
+        "TotalTravelTime": "Approx. 45 mins",
+        "StartingDestination": "Copper Creek Villas",
+        "Stop1": "Magic Kingdom - Monorail",
+        "Stop2": "Transportation Ticket Center - Monorail",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Copper Creek Villas",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 25 - 30 mins",
+        "StartingDestination": "Copper Creek Villas",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Copper Creek Villas",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 10 - 20 mins",
+        "StartingDestination": "Cabins at Fort Wilderness",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 10 - 15 mins",
+        "StartingDestination": "Cabins at Fort Wilderness",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Cabins at Fort Wilderness",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 25 mins",
+        "StartingDestination": "Cabins at Fort Wilderness",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Cabins at Fort Wilderness",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 30 - 40 mins",
+        "StartingDestination": "Cabins at Fort Wilderness",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 25 mins",
+        "StartingDestination": "Boardwalk Villas",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Alternate Route",
+        "TotalTravelTime": "Approx. 25 mins",
+        "StartingDestination": "Boardwalk Villas",
+        "Stop1": "Walk from Boardwalk to Epcot",
+        "Stop2": "Epcot - Monorail",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 10 - 15 mins",
+        "StartingDestination": "Boardwalk Villas",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Boardwalk Villas",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Boardwalk Villas",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Boardwalk Villas",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 10 - 15 mins",
+        "StartingDestination": "Beach Club Villas",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Alternate Route",
+        "TotalTravelTime": "Approx. 25 mins",
+        "StartingDestination": "Beach Club Villas",
+        "Stop1": "Walk from Beach Club to Epcot",
+        "Stop2": "Epcot - Monorail",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 5 - 10 mins",
+        "StartingDestination": "Beach Club Villas",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 10 - 20 mins",
+        "StartingDestination": "Beach Club Villas",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 18 mins",
+        "StartingDestination": "Beach Club Villas",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Beach Club Villas",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Beach Club Villas",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 10 - 15 mins",
+        "StartingDestination": "Disney's Riviera",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Skyliner",
+        "TotalTravelTime": "Approx. 5 - 8 mins",
+        "StartingDestination": "Disney's Riviera",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Skyliner",
+        "TotalTravelTime": "Approx. 10 - 12 mins",
+        "StartingDestination": "Disney's Riviera",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Disney's Riviera",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Disney's Riviera",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Kidani",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Kidani",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Kidani",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 5 - 10 mins",
+        "StartingDestination": "Kidani",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Kidani",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Jambo",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Jambo",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 - 20 mins",
+        "StartingDestination": "Jambo",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 5 - 10 mins",
+        "StartingDestination": "Jambo",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 25 mins",
+        "StartingDestination": "Jambo",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 25 mins",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 18 mins",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 mins",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 25 mins",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 25 mins (Scenic Route)",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Old Key West",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 10 Mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Magic Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Epcot",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 15 mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Hollywood Studios Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Animal Kingdom Theme Park",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Walk",
+        "TotalTravelTime": "Approx. 18 mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Water Taxi",
+        "TotalTravelTime": "Approx. 10 - 15 mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    },
+    {
+        "TransportationType": "Bus",
+        "TotalTravelTime": "Approx. 20 - 30 mins",
+        "StartingDestination": "Saratoga Springs",
+        "FinalDestination": "Disney Springs",
+        "TravelDescription": ""
+    }
+]
